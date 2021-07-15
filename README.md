@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://www.jixiaokang.com/nav">
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
@@ -149,45 +149,12 @@ yarn build
 
 
 ## 贡献
-[点击这里](https://github.com/xjh22222228/nav/tree/master/data)
-
-Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), men.
-
-<a href="https://github.com/YutHelloWorld">
-  <img src="https://avatars1.githubusercontent.com/u/20860159?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://github.com/JJJTHuang">
-  <img src="https://avatars3.githubusercontent.com/u/22817432?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://github.com/Fechin">
-  <img src="https://avatars1.githubusercontent.com/u/2541482?s=460&v=4" width="30px" height="30px" />
-</a>
-<a href="https://github.com/setdiaoyong">
-  <img src="https://avatars1.githubusercontent.com/u/62551864?s=460&v=4" width="30px" height="30px" />
-</a>
-
-
-
-
-
-
-## 建议
-如果有任何功能上的建议可通过 [issue](https://github.com/xjh22222228/nav/issues) 发起, Thank you.
-
 
 
 ## 支持
-项目成立于 2018 年到至今一直坚持维护和开源, 经过N次的迭代与优化, 如果项目能帮到您是我的荣幸。
 
 您可以请作者喝杯咖啡，继续战斗下去（请备注Github名字）~
 
-<img src="https://cdn.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
+> 开发不易,您的鼓励会让我走的更远,一分也是情一分也是爱❤️
 
-感谢您的认可：
-| 姓名    | 支持金额              |
-| --------------------------------------- |----------- |
-| [aiyou9](https://github.com/aiyou9)     | ￥50.00     |
-| [lastares](https://github.com/lastares)       | ￥25.00     |
-| [MrJxySteven](https://github.com/MrJxySteven) | ￥20.00     |
-| 路人甲     | ￥50.00     |
-
+![UpeRIA.jpg](https://s1.ax1x.com/2020/07/05/UpeRIA.jpg)
